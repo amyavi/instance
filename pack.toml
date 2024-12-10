@@ -1,0 +1,13 @@
+name = "instance"
+author = "amyavi"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bebbe7d0d815177acd9d42b5b22c799bee9398149bae4bd9d5451348ad62693"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
