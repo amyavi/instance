@@ -9,6 +9,10 @@ file = "config/sodium-options.json"
 hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
 
 [[files]]
+file = "hotbar.nbt"
+hash = "d20e0120b52a04defa27702499e7f5079aaac0f5c974a0e8b3ec3bb7bc4fb8b9"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
