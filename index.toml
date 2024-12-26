@@ -10,7 +10,7 @@ hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "79447beeee33914d9ac9832cd9a24f90a7a04e8fc3c23803b1cc1c493816a983"
+hash = "1f280ab219335b93b85d944a186dce072d111a24a9719523226f08a16141af03"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
+hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
 metafile = true
 
 [[files]]
@@ -38,18 +38,18 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "6a54cfda40130bb182c72c4020f079548fe92ec257db870e20653a01bbb4ba3f"
+file = "mods/modernfix.pw.toml"
+hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
+file = "mods/moonrise-opt.pw.toml"
+hash = "b5cdcfd4e4331532d191fb8966cfc0492f8711a6701a2b01f80a5b294dd6c51c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
 
 [[files]]
