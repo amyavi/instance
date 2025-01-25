@@ -9,6 +9,10 @@ file = "config/sodium-options.json"
 hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
 
 [[files]]
+file = "config/waveycapes.json"
+hash = "2ba7b4942f4157902a9bbcf19810e07c0628ed36400074023b00d7bf78e33b0c"
+
+[[files]]
 file = "hotbar.nbt"
 hash = "1f280ab219335b93b85d944a186dce072d111a24a9719523226f08a16141af03"
 
