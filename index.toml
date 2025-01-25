@@ -9,10 +9,6 @@ file = "config/sodium-options.json"
 hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
 
 [[files]]
-file = "config/waveycapes.json"
-hash = "2ba7b4942f4157902a9bbcf19810e07c0628ed36400074023b00d7bf78e33b0c"
-
-[[files]]
 file = "hotbar.nbt"
 hash = "1f280ab219335b93b85d944a186dce072d111a24a9719523226f08a16141af03"
 
@@ -54,11 +50,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "ff46d9d0cb8e6c228b93508bef548f1011c802b63c8f90324e39ea5875ba5e32"
 metafile = true
 
 [[files]]
