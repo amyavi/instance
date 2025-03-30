@@ -10,21 +10,21 @@ hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "1f280ab219335b93b85d944a186dce072d111a24a9719523226f08a16141af03"
+hash = "7fc95e51e5aa717b71c42cb8644366bbba3fd5418fec5607707f26022e3dd60b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
+hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "56c9c4fd7be775aa9b8c97b8e3e3224f1c4df7680bfa626bcb5c38a4f432b203"
+hash = "00221a1bbad9b26dace7c7fb3146b774c5ba9b40bb186dd0e4e0a37e932fdbda"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
