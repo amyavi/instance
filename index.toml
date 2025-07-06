@@ -1,65 +1,74 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "39120b1f7cdad7d437d950c6b3cd0035edcb9d21d53dc1140fddff6b379f7a22"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "381920cb97eaea1c21da0b9bdba69ea4e999eaa8849c363049d54d699a28664e"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "f16e299fbfed74761ec6facf9a4834be044aefdfbf70834dbf8c47e0ae58f0bf"
+hash = "706ae40fe0ef49027c07a05b731bf099b7ccf8e2a7c7c6c1d2fb192b95247402"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "7fc95e51e5aa717b71c42cb8644366bbba3fd5418fec5607707f26022e3dd60b"
+hash = "ab71a5716bc2054d7f6eea6e7ec9b6dcdbdcafcdc034f2fb6013232c0dce6681"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
+hash = "ecc2ba4f5a606c56c2a7055f150aaa09b389eb927ed257d9419566e5fe957fd0"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "00221a1bbad9b26dace7c7fb3146b774c5ba9b40bb186dd0e4e0a37e932fdbda"
+hash = "16e3fc8e5ed1ed1ef79e351eead355a407490a6a0c1372aa01836db9b62fbce2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "f4a4b5ee8c7196d5506e1f5150c9bbc55e5453d33aa96fbfa759967ae9ee735e"
+hash = "9eca7707a74fba6ee808d414e6cf1e57c79bb95c5669a801f0c6a5fa30063ffc"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/wayfix.pw.toml"
+hash = "c91c5558c8d9aa0bcc05d876811edfeed982eafdb265bf08904deb9910e2c505"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "84fabfcd1c24d14049ebf938e2c48bdbdb7f70693ced108e52fbf9d70aa9f0c5"
+hash = "6a7d48bc718f75d606e8e003ec12d52dc4a3423f6d087b79bd0af0f2e114bf7d"
 
 [[files]]
 file = "servers.dat"
