@@ -18,12 +18,12 @@ hash = "ab71a5716bc2054d7f6eea6e7ec9b6dcdbdcafcdc034f2fb6013232c0dce6681"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ecc2ba4f5a606c56c2a7055f150aaa09b389eb927ed257d9419566e5fe957fd0"
+hash = "ec412967102ea4586ac8d93de1215be19588e900fcf3b74721a0e1eaee899f86"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "16e3fc8e5ed1ed1ef79e351eead355a407490a6a0c1372aa01836db9b62fbce2"
+hash = "e8c974dc75957568eb2dd41187468c1d29c18b04b057217d426fd75d6423f1ee"
 metafile = true
 
 [[files]]
@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
+hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
 metafile = true
 
 [[files]]
@@ -53,12 +53,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
+hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "9eca7707a74fba6ee808d414e6cf1e57c79bb95c5669a801f0c6a5fa30063ffc"
+hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
 metafile = true
 
 [[files]]
