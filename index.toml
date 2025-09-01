@@ -18,7 +18,7 @@ hash = "ab71a5716bc2054d7f6eea6e7ec9b6dcdbdcafcdc034f2fb6013232c0dce6681"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ec412967102ea4586ac8d93de1215be19588e900fcf3b74721a0e1eaee899f86"
+hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
 
 [[files]]
@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
+hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfix.pw.toml"
-hash = "c91c5558c8d9aa0bcc05d876811edfeed982eafdb265bf08904deb9910e2c505"
+hash = "e632a87e304ca02973b75819b545958a2d2c6b4a1cdbb9de04a7c00bad01f808"
 metafile = true
 
 [[files]]
