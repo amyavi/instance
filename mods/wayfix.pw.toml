@@ -1,13 +1,13 @@
 name = "WayFix"
-filename = "wayfix-1.0.9+1.20-fabric.jar"
+filename = "wayfix-1.1.0+1.21.9-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hxIWsdEF/versions/sqmyxwO8/wayfix-1.0.9%2B1.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/hxIWsdEF/versions/gEcvpE03/wayfix-1.1.0%2B1.21.9-fabric.jar"
 hash-format = "sha512"
-hash = "bb3a9fa5846756f91134a20aabebcc0ddad40b0db2a4927765ba22b4db0fac5c5cda49d1d20b60fc139e37a7bea2882e86db10fbb140b6b35ae18f292bd84f96"
+hash = "a08d1711fd02701c4860903a7b31399590e244adf88ac76f72f790b8890825de9ba27333e64cbcacc0a43663d6b11597e30b6ad1a7958495314d5b0c29a761ff"
 
 [update]
 [update.modrinth]
 mod-id = "hxIWsdEF"
-version = "sqmyxwO8"
+version = "gEcvpE03"
