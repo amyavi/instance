@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "4a005b99813a9dfb95b38a97c1de0e95221bd3c8f1a6a076df2ea9b5416fbc61"
-
-[[files]]
 file = "config/sodium-fingerprint.json"
-hash = "381920cb97eaea1c21da0b9bdba69ea4e999eaa8849c363049d54d699a28664e"
+hash = "663c412b825a8bd1365c1641e35eabc63cc68e9c99004d6423987a034cc52a33"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "706ae40fe0ef49027c07a05b731bf099b7ccf8e2a7c7c6c1d2fb192b95247402"
+hash = "0009d834aac524cb5326647400cd0cab220ded21ffe4fe6522d443d297f9337f"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -22,70 +18,65 @@ hash = "5d6827441296c3e3df3e8692d867b051e50dd91291413969b2d0cf8c23f0b642"
 
 [[files]]
 file = "debug-profile.json"
-hash = "4cd48e9a4baef4348d2f863ee3fe9e0ef523d291a07d0dd0c5a4db22dc5d7159"
+hash = "1e2f09aa12f32817c4239caf2b7d4de0af142dad81bde6d6016c73fb62feaed2"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "72e8580016668e078f50476fb6e7bdffdf6e419038711f4d592b4621757759eb"
+hash = "19fe5c7a8757f8cf1d5e2786de1c06d496cd034190b93c4c5e511fef727e96f4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "c78bcdcb1ac530f0cdfe0588155f27b5f573e4deb3bb87c18eb4096d53a8c84f"
+hash = "3cdf20fd9407965a151e78de03d7d8c821b2d814a144b1882870577ec1f54b64"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "226c41357094f0b0132d9520e87e680dc62a8e7937dbda7120f199f9fa9ba117"
+hash = "2a61a08e39ea21bb9652683bf239345b04af91bf439c4ec60a6246b7cb37b9f4"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
-metafile = true
-
-[[files]]
-file = "mods/wayfix.pw.toml"
-hash = "2b1ba0449322c2563e58907a980c0243d7bb14e8c739d990b9dd341ea40298d6"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6a7d48bc718f75d606e8e003ec12d52dc4a3423f6d087b79bd0af0f2e114bf7d"
+hash = "07967a7b29c5b7dafe2e8c0e622074b17b670e8ca28621721b493ad346f00621"
 
 [[files]]
 file = "servers.dat"
