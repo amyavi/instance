@@ -26,12 +26,12 @@ hash = "19fe5c7a8757f8cf1d5e2786de1c06d496cd034190b93c4c5e511fef727e96f4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
+hash = "fcfbde34c4d9f01f2ba1397f424060e204b6ea994ccb2394e86e4da33e02965c"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "3cdf20fd9407965a151e78de03d7d8c821b2d814a144b1882870577ec1f54b64"
+hash = "e6c63fb716619ccb4613ea3606fd242c2f4e2ea8d46bb877e42e7562300bb95b"
 metafile = true
 
 [[files]]
@@ -66,12 +66,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
+hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
 metafile = true
 
 [[files]]
