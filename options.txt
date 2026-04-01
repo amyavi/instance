@@ -38,9 +38,9 @@ vignette:false
 ;:: fabulous with a few options changed
 graphicsPreset:"custom"
 biomeBlendRadius:7
-renderDistance:32
+renderDistance:12
 prioritizeChunkUpdates:1
-simulationDistance:12
+simulationDistance:8
 ao:true
 renderClouds:"false"
 particles:0
@@ -50,7 +50,7 @@ entityDistanceScaling:5.0
 menuBackgroundBlurriness:5
 cloudRange:128
 cutoutLeaves:true
-improvedTransparency:true
+improvedTransparency:false
 weatherRadius:10
 maxAnisotropyBit:2
-textureFiltering:1
+textureFiltering:0
