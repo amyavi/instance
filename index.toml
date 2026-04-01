@@ -35,11 +35,6 @@ hash = "f91040d93246ffcb8433d674cb3e03ef54671089d6c3adc74a3944f59686d81d"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "89d803cc500f29cbc646d0d931449f171f7a05f2392cce26b7261f315fb3647e"
 metafile = true
